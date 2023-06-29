@@ -88,6 +88,4 @@ This documentation provides instructions on how to use the Node.js sample projec
 - If the GitHub API rate limit is exceeded, you may encounter errors. In that case, consider using a valid GitHub API access token in the `.env` file.
 - Ensure that the environment variables in the `.env` file match your database and GitHub API configuration.
 
-Please refer to the project's GitHub repository [https://github.com/vikrishintegrattion/nodejssample](https://github.com/vikrishintegrattion/nodejssample) for additional information and updates.
-
 Feel free to reach out if you have any questions or need further assistance!
