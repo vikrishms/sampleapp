@@ -3,7 +3,7 @@ The project aims to develop a command-line application using Node.js, TypeScript
 
 **Project Usage Documentation**
 
-This documentation provides instructions on how to use the Node.js sample project available at [https://github.com/vikrishintegrattion/nodejssample](https://github.com/vikrishintegrattion/nodejssample). This project is a command-line application that interacts with the GitHub API and PostgreSQL database to fetch and store user information.
+This documentation provides instructions on how to use the Node.js sample project. This project is a command-line application that interacts with the GitHub API and PostgreSQL database to fetch and store user information.
 
 **Prerequisites:**
 - Node.js and npm installed on your machine.
@@ -13,7 +13,7 @@ This documentation provides instructions on how to use the Node.js sample projec
 **Installation:**
 1. Clone the repository:
    ```
-   git clone https://github.com/vikrishintegrattion/nodejssample.git
+   git clone https://github.com/xxxxxxxxxxxxxxxxxxxxxxx/nodejssample.git
    ```
 
 2. Navigate to the project directory:
